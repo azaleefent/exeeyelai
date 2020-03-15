@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://odaeghohdi.tomasputna.cz/sitemap.xml
